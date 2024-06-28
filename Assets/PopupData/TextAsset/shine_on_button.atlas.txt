@@ -1,0 +1,9 @@
+shine_on_button.png
+size:1024,512
+filter:Linear,Linear
+pma:true
+glow
+bounds:2,94,318,318
+shine
+bounds:2,2,90,514
+rotate:90
